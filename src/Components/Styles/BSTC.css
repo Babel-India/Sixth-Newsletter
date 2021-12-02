@@ -1,0 +1,98 @@
+.bstc{
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+.bstc-head {
+    font-family: "Graduate", cursive;
+    text-align: center;
+    color: white;
+    background-color: #053742;
+  }
+.bstc-intro {
+    font-family: "Playball", cursive;
+    margin-top: 30px;
+    font-size: 1.7rem;
+    padding-bottom: 50px;
+  }
+.bstc-table{
+    margin-left: 100px;
+  }
+  .winner-img {
+    height: 130px;
+    width: 130px;
+  }
+  .bstc-name {
+    padding-top: 20px;
+    font-family: "Cinzel Decorative", cursive;
+    font-size: 1.2rem;
+    font-weight: bolder;
+    margin-top: 20px;
+    margin-bottom: 20px;
+  }
+  .bstc-winner{
+    padding-bottom: 50px;
+    font-size: 2rem;
+  }
+  .video-head {
+    font-family: "Graduate", cursive;
+    text-align: center;
+    color: white;
+    background-color: #053742;
+    font-size: 2.5rem;
+    margin-top: 30px;
+    margin-bottom: 30px;
+  }
+  .video {
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-left: 10%;
+    margin-right: 10%;
+  }
+  .Vaccine-head{
+    font-family: "Graduate", cursive;
+    text-align: center;
+    color: white;
+    background-color: #053742;
+    font-size: 2.5rem;
+    margin-top: 30px;
+    margin-bottom: 30px;
+  }
+  .Vaccine-des{
+    margin-top: 50px;
+    padding-right: 300px;
+    padding-left: 300px;
+  }
+  table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 80%;
+    margin-left: 150px;
+  }
+  
+  td, th {
+    border: 1px solid #dddddd;
+    text-align: center;
+    padding: 8px;
+    font-family: "Cinzel Decorative", cursive;
+  }
+  
+  tr:nth-child(even) {
+    background-color: #dddddd;
+  }
+  .poem-line{
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-left: 10%;
+    margin-right: 10%;
+    font-family: 'Scheherazade New', serif;
+    font-weight: 520;
+    font-size: larger;
+    line-height: 2;
+  }
+  .video1{
+    margin-bottom: 50px;
+  }
+  .video{
+    margin-bottom: 50px;
+  }
+  
