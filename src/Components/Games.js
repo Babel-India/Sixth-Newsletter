@@ -21,7 +21,7 @@ const Games = () => {
               <p>Release date: 28 October 2008</p>
            </div>
            <div className="game-1">
-               <h2 className='game-name'>mortal-kombat-11 </h2>
+               <h2 className='game-name'>Mortal Kombat 11 </h2>
               <p className="game-des">
                 <img alt='game' className="game-image" src={ require("../Images/Games/mortal-kombat-11.jpg").default } />
                  Banned in Indonesia because of excessive violence and gore.  
