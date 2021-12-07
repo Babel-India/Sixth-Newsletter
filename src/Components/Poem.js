@@ -4,7 +4,7 @@ import './Styles/BSTC.css';
 function Poem(){
     return(
         <div className='poem-head'>
-            <h1 className='video-head'>Before Video Games</h1>
+            <h1 className='game-head'>Before Video Games</h1>
             <div className='poem'>
             <p className='poem-line'>Pressing Play-Doh on the Sunday strips
             Baseball cards going click,click, click
