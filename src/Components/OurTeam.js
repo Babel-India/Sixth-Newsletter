@@ -63,9 +63,6 @@ function TeamIntro() {
                 </Col>
                </Row>
                <Row>
-               <Col>
-                    
-                </Col>
                 <Col>
                     <div>
                         <img className='introImage' src={Nishant} alt="Nishant" />
